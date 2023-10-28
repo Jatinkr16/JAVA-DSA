@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "check_leap_year",
+            "request": "launch",
+            "mainClass": "check_leap_year",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "check_value_x_and_y",
+            "request": "launch",
+            "mainClass": "check_value_x_and_y",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "check_week_number_by_name",
+            "request": "launch",
+            "mainClass": "check_week_number_by_name",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "check_temprature",
+            "request": "launch",
+            "mainClass": "check_temprature",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "check_positive_or_negative_number",
+            "request": "launch",
+            "mainClass": "check_positive_or_negative_number",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "calculator_switch",
+            "request": "launch",
+            "mainClass": "calculator_switch",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "check_age_if_else",
+            "request": "launch",
+            "mainClass": "check_age_if_else",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "check_number_even_odd",
+            "request": "launch",
+            "mainClass": "check_number_even_odd",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "income_tax_calculator",
+            "request": "launch",
+            "mainClass": "income_tax_calculator",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "larger_of_three_number",
+            "request": "launch",
+            "mainClass": "larger_of_three_number",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "larger_of_two_number",
+            "request": "launch",
+            "mainClass": "larger_of_two_number",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "student_pass_fail_status",
+            "request": "launch",
+            "mainClass": "student_pass_fail_status",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "switch_statement",
+            "request": "launch",
+            "mainClass": "switch_statement",
+            "projectName": "conditional statement_354a64e8"
+        },
+        {
+            "type": "java",
+            "name": "ternary_operator",
+            "request": "launch",
+            "mainClass": "ternary_operator",
+            "projectName": "conditional statement_354a64e8"
+        }
+    ]
+}
